@@ -14,7 +14,7 @@
 
 ## Getting Started:
 - Orignal plan of revamping my Music App had to be scrapped due to time constraints so I had to swap to doing a basic to do list app.
-- App includes Create, Read, and Delete functionality integrated from the back end. GitHub link to [back end](github.com/C3-PIO/ToDoListBE).
+- App includes Create, Read, and Delete functionality integrated from the back end. GitHub link to [back end](https://github.com/C3-PIO/ToDoListBE/tree/main).
 
 ## Unsolved Problems:
 - Independent checkbox functionality
