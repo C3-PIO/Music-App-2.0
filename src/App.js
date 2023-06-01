@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState, useEffect } from "react";
 import axios from "axios";
-const DB_URL = "http://localhost:3001/todos";
+const DB_URL = "https://to-do-list-back-end-0jhw.onrender.com/todos";
 
 function App() {
   // List state
